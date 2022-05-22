@@ -1,0 +1,13 @@
+my_project
+1 settings 
+1.1 __init__.py, dev.py, prod.py
+2 mainapp
+2.1 __init__.py, models.py, views.py
+2.2 templates
+2.2.1 mainapp
+2.2.1.1 base.html, index.html
+3 authapp
+3.1 __init__.py, models.py, views.py
+3.2 templates
+3.2.1 authapp
+3.2.1.1 base.html, index.html
